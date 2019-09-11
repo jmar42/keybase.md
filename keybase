@@ -1,0 +1,33 @@
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f92ed0c3caece78d4cfd87d342baea39e5fea7f4ef4ac1d3e0e98f7f6e767fa0a",
+      "host": "keybase.io",
+      "kid": "01201f92ed0c3caece78d4cfd87d342baea39e5fea7f4ef4ac1d3e0e98f7f6e767fa0a",
+      "uid": "9aa0c46d1e96701063445c19e9910119",
+      "username": "jmar42"
+    },
+    "merkle_root": {
+      "ctime": 1568162120,
+      "hash": "e180a5bc7ba866c4f4bf44779cb6650fdc70bfb4c234eb5c113831b967c4000922c2d62e0e1613bd7d2ec87773a9baa5cd6e3e22270d56b129f3633cd5900d7c",
+      "hash_meta": "a88bf5bc4c1a3967c0f4f60b7268ec02c80ae8c5e0b8d262dd3d52f329fbb637",
+      "seqno": 6546452
+    },
+    "service": {
+      "entropy": "D1KyvfPWh5hJEpsWkCSoalwR",
+      "name": "github",
+      "username": "jmar42"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568162124,
+  "expire_in": 504576000,
+  "prev": "ff79834aff3e7cd3679e8a9dd58f7d360700739253bbf75eb21437eb5fdbf304",
+  "seqno": 10,
+  "tag": "signature"
+}
